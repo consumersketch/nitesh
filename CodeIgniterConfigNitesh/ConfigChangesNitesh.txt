@@ -1,0 +1,18 @@
+Changes to be made in config file in code igniter 
+
+
+1) nitesh-master/Application/Config/config.php
+
+line no 17: Change base url to your server url. 
+
+
+2) nitesh-master/Application/Config/Database.php
+
+line no 51: Change Database host name
+
+line no 52: Change Database Username  
+
+line no 53: Change Database Password
+
+Thanks
+Nitesh
